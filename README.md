@@ -10,9 +10,8 @@ I Know good amount of backend. <br>
 - 📫 How to reach me: dheerajgajula2202@gmail.com
 - ⏭️ Let's connect at linkedin : [My linkedin](https://www.linkedin.com/in/dheeraj-gajula-8776381ba/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajgajula02&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=dheerajgajula02&show_icons=true&theme=merko)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajgajula02&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
