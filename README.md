@@ -2,7 +2,7 @@
 
 I'm a Machine engineer who always likes to collaborate and build stuff. <br>
 Don't hesistate to reach out to me for collaboration. <br>
-I Know good amount of backend. <br>
+I Know good amount of backend too. <br>
 
 
 - 🤖 I’m always learning Machine learning and Deep learning.
