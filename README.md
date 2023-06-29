@@ -8,7 +8,7 @@ I Know good amount of backend too. <br>
 
 - 🤖 I’m always learning Machine learning and Deep learning.
 - 🐧 I use ~ARCH~ Debian BTW
-- 📫 How to reach me: dheerajgajula2202@gmail.com
+- 📫 How to reach me: dheerajgajula2202@proton.me / dheerajgajula2202@gmail.com
 - ⏭️ Let's connect : [My linkedin](https://www.linkedin.com/in/dheeraj-gajula-8776381ba/)
 
 <br>
