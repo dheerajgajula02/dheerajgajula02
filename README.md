@@ -1,6 +1,6 @@
 ### Hi there, I'm Dheeraj Gajula 😁👋
 
-I'm a Machine engineer who likes to collaborate and build stuff. <br>
+I'm a Machine-learning engineer who likes to collaborate and build stuff. <br>
 I do stupid stuff to my laptop and phone <br>
 Don't hesistate to reach out to me for collaboration. <br>
 I Know good amount of backend too. <br>
