@@ -8,6 +8,8 @@ I Know good amount of backend too. <br>
 
 - 🤖 always learning Machine learning and Deep learning.
 - 🐧 I use ~ARCH~ Debian BTW
+- I'm not a front-end dev but here's my (portfolio)[https://dheerajgajula.pythonanywhere.com/]
+- Yes, you can contact me in contact page easily
 - 📫 How to reach me: dheerajgajula2202@proton.me / dheerajgajula2202@gmail.com
 - ⏭️ Let's connect : [My linkedin](https://www.linkedin.com/in/dheeraj-gajula-8776381ba/)
 
