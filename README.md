@@ -7,6 +7,7 @@ I Know good amount of backend too. <br>
 
 
 - 🤖 always learning Machine learning and Deep learning.
+- I'm a service now certified application developer 
 - 🐧 I use ~ARCH~ Debian BTW
 - I'm not a front-end dev but here's my [portfolio](https://gajula.email/) some times my own DNS goes down then use [this](https://dheerajgajula.pythonanywhere.com/)
 - Yes, you can contact me in contact page easily
