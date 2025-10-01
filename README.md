@@ -16,5 +16,6 @@ I Know good amount of backend too. <br>
 <br>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=dheerajgajula02&show_icons=true&theme=merko) &emsp;&emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajgajula02&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=dheerajgajula02&show_icons=true&theme=merko) &emsp;&emsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajgajula02&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 
