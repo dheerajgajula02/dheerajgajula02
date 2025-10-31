@@ -10,7 +10,7 @@ I Know good amount of backend too. <br>
 - I'm a service now certified application developer 
 - 🐧 I use ~ARCH~ Debian BTW
 - Yes, you can contact me in contact page easily
-- 📫 How to reach me: dheerajgajula2202@proton.me / dheerajgajula2202@gmail.com
+- 📫 How to reach me: dheeraj.cuboulder@gmail.com / dheeraj.gajula@colorado.edu
 
 <br>
 <br>
