@@ -12,11 +12,11 @@ I Know good amount of backend too. <br>
 - Yes, you can contact me in contact page easily
 - 📫 How to reach me: dheeraj.cuboulder@gmail.com / dheeraj.gajula@colorado.edu
 
-portfolio: v6.dheerajg.me / portfolio.dheerajg.me ( if you know your wifi supports ipv6 ) 
+portfolio: https://v6.dheerajg.me / https://portfolio.dheerajg.me ( if you know your wifi supports ipv6 ) 
 note : if you're seeing this from CU boulder connected to UCB guest or UCB wireless it won't work because it doesn't support dual stack :).
 
 
-else : resume.dheerajg.me ( ipv4 )
+else : https://resume.dheerajg.me ( ipv4 )
 
 note: at any given point of time anyone of these 3 should be up. 
 
