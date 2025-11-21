@@ -1,17 +1,20 @@
 ### Hi there, I'm Dheeraj Gajula 😁👋
 
-I'm a Machine-learning engineer who likes to collaborate and build stuff. <br>
+#### To see stuff I do in my sites visit https://index.dheerajg.me <br>
+I'm all about privacy I'm not logging any IP address , cloudflare might log some for their metrics but my backend wont.
+
+I'm a Network and software engineer, interested in building homelabs infra, backend developer (golang) , devops <br>
+I'm majoring in computer science and Network engineering <br>
+I have a (I'd like to think ) decent home lab setup with enough redundancies to required services <br>
 I do stupid stuff to my laptop and phone <br>
 Don't hesistate to reach out to me for collaboration. <br>
 I Know good amount of backend too. <br>
 
 
-- 🤖 always learning Machine learning and Deep learning.
-- I'm a service now certified application developer 
+- 🤖 Interested in networking , home labs, low level database engineering.
 - 🐧 I use ~ARCH~ Debian BTW
-- Yes, you can contact me in contact page easily
 - 📫 How to reach me: dheeraj.cuboulder@gmail.com / dheeraj.gajula@colorado.edu
-
+ 
 portfolio: https://v6.dheerajg.me / https://portfolio.dheerajg.me ( if you know your wifi supports ipv6 ) 
 note : if you're seeing this from CU boulder connected to UCB guest or UCB wireless it won't work because it doesn't support dual stack :).
 
