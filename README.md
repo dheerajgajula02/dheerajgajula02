@@ -1,7 +1,9 @@
 ### Hi there, I'm Dheeraj Gajula 😁👋
 
 #### To see stuff I do in my sites visit https://index.dheerajg.me <br>
+note that most of my sites are not in index for obvious reasons, they're critical , but if you're interviwing me ask me, I'm more than happy to explain <br>
 I'm all about privacy I'm not logging any IP address , cloudflare might log some for their metrics but my backend wont.
+most of my servies are IPV6, you can read all those in the index, the index page runs dual stack.
 
 I'm a Network and software engineer, interested in building homelabs infra, backend developer (golang) , devops <br>
 I'm majoring in computer science and Network engineering <br>
