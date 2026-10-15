@@ -74,14 +74,14 @@ dheeraj@fedora:~$ cat about_me.json
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Activity & Metrics (Rolling 1-Year)
 
 <div align="center">
 
 <table align="center" border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dheerajgajula02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dheerajgajula02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajgajula02&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
@@ -91,7 +91,9 @@ dheeraj@fedora:~$ cat about_me.json
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajgajula02&theme=tokyonight&hide_border=true" width="495" alt="Streak Stats" />
+<a href="https://github.com/dheerajgajula02">
+  <img src="https://raw.githubusercontent.com/dheerajgajula02/dheerajgajula02/main/streak.svg" width="495" alt="Streak Stats" />
+</a>
 
 </div>
 
