@@ -7,7 +7,7 @@
 
 <br/>
 
-### Hey, I'm Dheeraj 👋
+## Hey, I'm Dheeraj
 
 Network & Systems grad student at **CU Boulder**, building high-throughput backends and over-engineered homelabs.  
 Currently daily-driving **Fedora** after breaking enough Arch & Debian installs to know better.
@@ -22,16 +22,16 @@ Currently daily-driving **Fedora** after breaking enough Arch & Debian installs 
 
 ---
 
-### ⚡ What I'm Up To
+### What I'm Up To
 
-- 🌐 **Moving Packets**: Researching Software-Defined Networks (SDN), OpenFlow telemetry, and LLM-driven intent controllers at CU Boulder.
-- 🖥️ **Homelab Maximalism**: Running a self-hosted cluster with "enough redundancies" to survive minor apocalypses for services that probably only need 99% uptime.
-- 🛠️ **Building Backends**: Writing concurrent, scalable services in **Go** and **Python**, with occasional deep dives into **C/C++**.
-- 🐧 **Linux Tinkering**: Doing questionable things to my laptop and phone in the name of performance.
+- **Networks & SDN** — Researching Software-Defined Networks (SDN), OpenFlow telemetry, and LLM-driven intent controllers at CU Boulder.
+- **Homelab Maximalism** — Running a self-hosted cluster with "enough redundancies" to survive minor apocalypses for services that probably only need 99% uptime.
+- **Backend Systems** — Writing concurrent, scalable services in **Go** and **Python**, with occasional deep dives into **C/C++**.
+- **Linux Tinkering** — Doing questionable things to my laptop and phone in the name of performance.
 
 ---
 
-### 📊 Activity & Metrics (Rolling 1-Year)
+### Activity & Metrics (Rolling 1-Year)
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Currently daily-driving **Fedora** after breaking enough Arch & Debian installs 
 
 <div align="center">
 
-💬 *Always down to chat about distributed systems, networking quirks, or homelab experiments.*
+*Always down to chat about distributed systems, networking quirks, or homelab experiments.*
 
 <br/>
 
