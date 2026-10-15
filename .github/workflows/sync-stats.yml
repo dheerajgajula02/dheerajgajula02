@@ -1,0 +1,59 @@
+name: Dynamic 1-Year Stats Sync
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # Runs daily at 04:00 UTC
+  workflow_dispatch: # Allows manual trigger from Actions tab
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/sync-stats.yml'
+
+jobs:
+  sync-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch and update dynamic 1-year streak SVG
+        run: |
+          python - << 'EOF'
+          import urllib.request, datetime
+
+          # Dynamically calculate previous year (current year - 1)
+          start_year = datetime.datetime.now().year - 1
+          url = f"https://github-readme-streak-stats.herokuapp.com/?user=dheerajgajula02&theme=tokyonight&hide_border=true&starting_year={start_year}"
+          print(f"Fetching streak stats for rolling 1-year window (from {start_year})...")
+
+          req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+          content = urllib.request.urlopen(req).read().decode('utf-8')
+          
+          # Refine label to clearly indicate past year scope
+          content = content.replace("Total Contributions", "Past Year Contributions")
+
+          with open("streak.svg", "w") as f:
+              f.write(content)
+          print("Updated streak.svg successfully.")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add streak.svg
+          if git diff --staged --quiet; then
+            echo "No changes in streak.svg"
+          else
+            git commit -m "🤖 Sync rolling 1-year contribution stats [skip ci]"
+            git push
+          fi
