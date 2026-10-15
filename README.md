@@ -39,7 +39,7 @@ dheeraj@fedora:~$ cat about_me.json
   "focus_areas": ["SDN & Network Automation", "Homelab Infrastructure", "Distributed Backends"],
   "current_distro": "Fedora (after surviving Arch & Debian)",
   "homelab_status": "Over-engineered with redundant services & high uptime",
-  "daily_struggle": "Why do I use under_scores everywhere? Frustrated Linux user 🥲"
+  "daily_struggle": "Why do I use under_scores everywhere? Frustrated Linux user 🙃"
 }
 ```
 
